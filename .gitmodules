@@ -1,0 +1,4 @@
+[submodule "logicbus"]
+	path = logicbus
+	url = git@git.vauxoo.com:vauxoo/logicbus.git
+	branch = 15.0
